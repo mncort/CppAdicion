@@ -9,9 +9,8 @@ Mariano Cortina K1051
 
  Debido a que se pide mostrar la suma de dos numeros, podemos decir que va a haber dos entradas,un proceso y una salida.
  las dos entradas serian numeros enteros, el proceso la suma de ambos y la salida el resultado de la suma.
-  
+ 
  |Entrada A, Entrada B|Proceso P|Salida C|
-
 
 3. Algoritmo.
 
